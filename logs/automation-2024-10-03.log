@@ -1,0 +1,97 @@
+10:31:23.551 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml"
+10:31:26.082 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml
+
+10:47:56.288 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml"
+10:47:57.450 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml
+
+10:59:22.122 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml"
+10:59:23.680 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml
+
+10:59:24.773 [main] INFO  testCases.TC001_AccountRegisterationTest - ********* Starting  TC001_AccountRegisterationTest*********
+10:59:25.424 [main] INFO  testCases.TC002_LoginTest - ***** Start  TC002_LoginTest*****
+11:02:34.832 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml"
+11:02:37.224 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml
+
+11:02:38.958 [main] INFO  testCases.TC001_AccountRegisterationTest - ********* Starting  TC001_AccountRegisterationTest*********
+11:02:39.276 [main] INFO  testCases.TC002_LoginTest - ***** Start  TC002_LoginTest*****
+11:05:19.381 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml"
+11:05:20.879 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml
+
+11:07:10.585 [main] INFO  testCases.TC001_AccountRegisterationTest - ********* Starting  TC001_AccountRegisterationTest*********
+11:07:13.485 [main] INFO  testCases.TC001_AccountRegisterationTest -  Click on MyAccount Link 
+11:07:15.716 [main] INFO  testCases.TC001_AccountRegisterationTest -  Click on Register Link  
+11:07:17.242 [main] INFO  testCases.TC001_AccountRegisterationTest -  Providing Costumer Info  
+11:07:39.286 [main] INFO  testCases.TC001_AccountRegisterationTest -  Validating Expected Message 
+11:07:39.961 [main] INFO  testCases.TC001_AccountRegisterationTest - ****** Finished   TC001_AccountRegisterationTest****
+11:08:34.917 [main] INFO  testCases.TC002_LoginTest - ***** Start  TC002_LoginTest*****
+11:12:40.741 [main] INFO  testCases.TC002_LoginTest - ****** Finish TC002_LoginTest******
+11:14:20.451 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml"
+11:14:21.998 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml
+
+11:20:21.383 [main] INFO  testCases.TC002_LoginTest - ***** Start  TC002_LoginTest*****
+11:20:59.799 [main] INFO  testCases.TC002_LoginTest - ****** Finish TC002_LoginTest******
+12:34:07.096 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml"
+12:34:08.733 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml
+
+12:46:31.652 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml"
+12:46:33.993 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml
+
+12:49:45.808 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml"
+12:49:48.023 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml
+
+13:09:54.472 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml"
+13:09:56.282 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml
+
+13:13:29.394 [main] INFO  testCases.TC001_AccountRegisterationTest - ********* Starting  TC001_AccountRegisterationTest*********
+13:13:33.714 [main] INFO  testCases.TC001_AccountRegisterationTest -  Click on MyAccount Link 
+13:14:15.839 [main] INFO  testCases.TC001_AccountRegisterationTest -  Click on Register Link  
+13:14:17.618 [main] INFO  testCases.TC001_AccountRegisterationTest -  Providing Costumer Info  
+13:15:14.372 [main] INFO  testCases.TC001_AccountRegisterationTest -  Validating Expected Message 
+13:15:18.448 [main] INFO  testCases.TC001_AccountRegisterationTest - ****** Finished   TC001_AccountRegisterationTest****
+13:17:11.190 [main] INFO  testCases.TC002_LoginTest - ***** Start  TC002_LoginTest*****
+13:20:52.330 [main] INFO  testCases.TC002_LoginTest - ****** Finish TC002_LoginTest******
+13:30:10.175 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml"
+13:30:12.473 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml
+
+13:52:39.040 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml"
+13:52:40.707 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml
+
+14:39:43.598 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml"
+14:39:45.921 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml
+
+16:41:21.186 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml"
+16:41:23.875 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml
+
+16:47:44.637 [main] INFO  testCases.TC002_LoginTest - ***** Start  TC002_LoginTest*****
+16:48:27.285 [main] INFO  testCases.TC002_LoginTest - ****** Finish TC002_LoginTest******
+18:00:07.885 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml"
+18:00:10.308 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml
+
+19:15:55.372 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml"
+19:15:55.430 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\src\test\resources\docker-compose.yaml"
+19:15:58.615 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\TE\eclipse-workspace\SeleniumProject\OpencartV121\docker-grid.xml
+
+19:19:25.842 [main] INFO  testCases.TC001_AccountRegisterationTest - ********* Starting  TC001_AccountRegisterationTest*********
+19:19:30.184 [main] INFO  testCases.TC001_AccountRegisterationTest -  Click on MyAccount Link 
+19:19:35.205 [main] INFO  testCases.TC001_AccountRegisterationTest -  Click on Register Link  
+19:19:35.825 [main] INFO  testCases.TC001_AccountRegisterationTest -  Providing Costumer Info  
+19:19:42.629 [main] INFO  testCases.TC001_AccountRegisterationTest -  Validating Expected Message 
+19:19:43.143 [main] INFO  testCases.TC001_AccountRegisterationTest - ****** Finished   TC001_AccountRegisterationTest****
+19:20:50.597 [main] INFO  testCases.TC002_LoginTest - ***** Start  TC002_LoginTest*****
+19:21:15.127 [main] INFO  testCases.TC002_LoginTest - ****** Finish TC002_LoginTest******
